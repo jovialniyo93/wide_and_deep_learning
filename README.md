@@ -3,7 +3,7 @@
 ![Keras](https://img.shields.io/badge/Keras-V2.7-brightgreen)
 ![pandas](https://img.shields.io/badge/Pandas-V1.4.2-ff69b4)
 ![numpy](https://img.shields.io/badge/%E2%80%8ENumpy-V1.20.2-success)
-![releasedate](https://img.shields.io/badge/release%20date-June%232026-red)
+![releasedate](https://img.shields.io/badge/release%20date-June%202026-red)
 ![Opensource](https://img.shields.io/badge/OpenSource-Yes!-6f42c1)
 
 # Wide and deep learning model
